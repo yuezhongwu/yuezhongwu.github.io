@@ -2,7 +2,10 @@
 **Academic Pages is a Github Pages template for academic websites.**
 
 **test for merge**
+
 **test for push**
+
+**test for speed**
 
 # Getting Started
 
