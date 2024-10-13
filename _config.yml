@@ -21,7 +21,7 @@ repository               : "yuezhongwu/yuezhongwu.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic_1.png"
   name             : "Yuezhong Wu"
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Internet of Things"
