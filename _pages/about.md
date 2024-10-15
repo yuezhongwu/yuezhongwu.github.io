@@ -8,8 +8,8 @@ redirect_from:
 ---
 I am currently a Assistant Professor at College of Computer and Data Science at Fuzhou University. I obtained my Ph.D. degree from the School of Computer Science and Engineering, the University of New South Wales (UNSW), supervised by [Prof. Wen Hu](https://github.com/wenh77/Website/wiki) and [Prof. Mahbub Hassan](https://cgi.cse.unsw.edu.au/~mahbub/). I received my M.S. degree in Computer Science and Technology from the School of Computer Science and Technology at University of Science and Technology of China (USTC) in 2013. I received my B.E. degree in Software Engineering from School of Information Science and Technology from Southwest Jiaotong University (SWJTU) in 2016. I am a IEEE Member.
 
-My research interests rotate around:
-1. Cyber-physical Systems
+Research Interests:
+1. Cyber-physical Systems 
 1. Internet-of-Things (IoT), AIoT
 1. Ubiquitous Computing
 1. Mobile Computing
