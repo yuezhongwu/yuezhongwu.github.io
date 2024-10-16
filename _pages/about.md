@@ -14,29 +14,29 @@ I am currently a **Assistant Professor** at College of Computer and Data Science
 <div style="width: 30%;">
   <h3>Interests</h3>
   <ul>
-    <li>🔗 Internet-of-Things (IoT), AIoT</li>
-    <li>🌐 Cyber-physical Systems </li>
-    <li>🌏 Ubiquitous Computing</li>
-    <li>📲 Mobile Computing</li>
-    <li>⌚ Wearable Computing</li>
-    <li>🧏🏻‍♀️ Pervasive Sensing, Vibration Sensing</li>
-    <li>🛠️ The end-to-end system design, implementation, and evaluation of all the above topics</li>
+    <li><font size=2>🔗 Internet-of-Things (IoT), AIoT</font></li>
+    <li><font size=2>🌐 Cyber-physical Systems</font></li>
+    <li><font size=2>🌏 Ubiquitous Computing</font></li>
+    <li><font size=2>📲 Mobile Computing</font></li>
+    <li><font size=2>⌚ Wearable Computing</font></li>
+    <li><font size=2>🧏🏻‍♀️ Pervasive Sensing, Vibration Sensing</font></li>
+    <li><font size=2>🛠️ The end-to-end system design, implementation, and evaluation of all the above topics</font></li>
   </ul>
 </div>
 
 <div style="width: 30%;">
   <h3>Education</h3>
   <ul>
-    <li>🎓PhD in Computer Science and Engineering, 2023 <br> <font size=2>University of New South Wales (UNSW)</font></li>
-    <li>🎓M.S. in Computer Science and Technology, 2016 <br> <font size=2>University of Science and Technology of China (USTC)</font></li>
-    <li>🎓B.S. in Software Engineering, 2013 <br> <font size=2>Southwest Jiaotong University (SWJTU)</font></li>
+    <li><font size=2>🎓PhD in Computer Science and Engineering, 2023</font> <br> <font size=2>University of New South Wales (UNSW)</font></li>
+    <li><font size=2>🎓M.S. in Computer Science and Technology, 2016</font> <br> <font size=2>University of Science and Technology of China (USTC)</font></li>
+    <li><font size=2>🎓B.S. in Software Engineering, 2013</font> <br> <font size=2>Southwest Jiaotong University (SWJTU)</font></li>
   </ul>
 </div>
 
 <div style="width: 30%;">
-  <h1>Experience</h1>
+  <h3>Experience</h3>
   <ul>
-    <li>👨🏻‍💼 Assistant Professor, 2023-now <br> <font size=2>Fuzhou University (FZU)</font></li>
+    <li><font size=2>👨🏻‍💼 Assistant Professor, 2023-now</font> <br> <font size=2>Fuzhou University (FZU)</font></li>
   </ul>
 </div>
 
