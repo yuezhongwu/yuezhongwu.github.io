@@ -9,19 +9,19 @@ main:
     url: https://yuezhongwu.github.io/
 
   - title: "Publications"
-    url: /publications/
+    url: /publications_wyz/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks_wyz/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching_wyz/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Services"
+    url: /Services/
     
   - title: "CV"
     url: /cv/

@@ -9,6 +9,8 @@ redirect_from:
 
 ## Locations of key files/directories
 
+You can find my CV Here：[Yuezhong's  Curriculum Vitae](../files/CV_yuezhong.pdf).
+
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
