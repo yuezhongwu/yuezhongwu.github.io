@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="width: 100%;">
 I am currently a **Assistant Professor** at College of Computer and Data Science at Fuzhou University. I obtained my Ph.D. degree from the School of Computer Science and Engineering, the University of New South Wales (UNSW), supervised by [Prof. Wen Hu](https://github.com/wenh77/Website/wiki) and [Prof. Mahbub Hassan](https://cgi.cse.unsw.edu.au/~mahbub/). I received my M.S. degree (Computer Science and Technology) from the School of Computer Science and Technology at University of Science and Technology of China (USTC) in 2016. I received my B.E. degree （Software Engineering） from School of Information Science and Technology from Southwest Jiaotong University (SWJTU) in 2013. I am a IEEE Member.
+</div>
 
 <div style="display: flex; justify-content: space-between;line-height:1">
 
