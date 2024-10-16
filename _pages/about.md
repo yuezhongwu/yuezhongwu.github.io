@@ -41,7 +41,7 @@ I am currently a Assistant Professor at College of Computer and Data Science at 
 <div style="width: 30%;">
   <h1>Experience</h1>
   <ul>
-    <li><font size=2>Assistant Professor, 2023-Now</font> <br> <font size=2>Fuzhou University (FZU)</font></li>
+    <li><font size=2>Assistant Professor, 2023-Now</font> <br> <font size=2>Fuzhou University (FZU), China</font></li>
   </ul>
 </div>
 </div>
