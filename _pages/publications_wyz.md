@@ -35,7 +35,7 @@ Crossover: An Efficient Hybrid Algorithm for the Traveling Salesman Problem”, 
 and Evolutionary Computation Conference, July 15-19, 2017, pages 298-305.
 1. [**GECCO 2016**] **Yuezhong Wu**, Thomas Weise, and Weichen Liu. “Hybridizing Different Local Search Algo-
 rithms with Each Other and Evolutionary Computation: Better Performance on the Traveling Salesman Prob-
-lem”, In Proceedings of the 18th Genetic and Evolutionary Computation Conference, July 20–24, 2016, pages
+lem”, In Proceedings of the 18th Genetic and Evolutionary Computation Conference, July, 2016, pages
 57-58.
 1. [**ICCI*CC 2015**] **Yuezhong Wu**, Thomas Weise, and Raymond Chiong. “Local Search for the Traveling Sales-
 man Problem: A Comparative Study”, In Proceedings of the 14th IEEE Conference on Cognitive Informatics &
