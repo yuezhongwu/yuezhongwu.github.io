@@ -21,10 +21,10 @@ main:
   #   url: /portfolio/
         
   - title: "Services"
-    url: /Services/
+    url: /services/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
