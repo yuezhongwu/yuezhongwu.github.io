@@ -6,25 +6,48 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Assistant Professor at College of Computer and Data Science at Fuzhou University. I obtained my Ph.D. degree from the School of Computer Science and Engineering, the University of New South Wales (UNSW), supervised by [Prof. Wen Hu](https://github.com/wenh77/Website/wiki) and [Prof. Mahbub Hassan](https://cgi.cse.unsw.edu.au/~mahbub/). I received my M.S. degree（Computer Science and Technology） from the School of Computer Science and Technology at University of Science and Technology of China (USTC) in 2013. I received my B.E. degree （Software Engineering） from School of Information Science and Technology from Southwest Jiaotong University (SWJTU) in 2016. I am a IEEE Member.
+I am currently a Assistant Professor at College of Computer and Data Science at Fuzhou University. I obtained my Ph.D. degree from the School of Computer Science and Engineering, the University of New South Wales (UNSW), supervised by [Prof. Wen Hu](https://github.com/wenh77/Website/wiki) and [Prof. Mahbub Hassan](https://cgi.cse.unsw.edu.au/~mahbub/). I received my M.S. degree（Computer Science and Technology） from the School of Computer Science and Technology at University of Science and Technology of China (USTC) in 2016. I received my B.E. degree （Software Engineering） from School of Information Science and Technology from Southwest Jiaotong University (SWJTU) in 2013. I am a IEEE Member.
 
-Research Interests:
-1. Cyber-physical Systems 
-1. Internet-of-Things (IoT), AIoT
-1. Ubiquitous Computing
-1. Mobile Computing
-1. Wearable Computing
-1. Pervasive sensing, Vibration sensing
-1. The end-to-end system design, implementation, and evaluation of all the above topics.
+<div style="display: flex; justify-content: space-between;">
 
+<div style="width: 30%;">
+  <h1>Interests</h1>
+  <ul>
+    <li>🔗 Internet-of-Things (IoT), AIoT</li>
+    <li>🌐 Cyber-physical Systems </li>
+    <li>🌏 Ubiquitous Computing</li>
+    <li>📲 Mobile Computing</li>
+    <li>⌚ Wearable Computing</li>
+    <li>🧏🏻‍♀️ Pervasive Sensing, Vibration Sensing</li>
+    <li>🛠️ The end-to-end system design, implementation, and evaluation of all the above topics</li>
+  </ul>
+</div>
+
+<div style="width: 30%;">
+  <h1>Education</h1>
+  <ul>
+    <li>🎓PhD in Computer Science and Engineering, 2023 <br> <font size=2>University of New South Wales (UNSW)</font></li>
+    <li>🎓M.S. in Computer Science and Technology, 2016 <br> <font size=2>University of Science and Technology of China (USTC)</font></li>
+    <li>🎓B.S. in Software Engineering, 2013 <br> <font size=2>Southwest Jiaotong University (SWJTU)</font></li>
+  </ul>
+</div>
+
+<div style="width: 30%;">
+  <h1>Experience</h1>
+  <ul>
+    <li>👨🏻‍💼 Assistant Professor, 2023-now <br> <font size=2>Fuzhou University (FZU)</font></li>
+  </ul>
+</div>
+
+</div>
 
 News
 ======
 - 2024.10 ------ One paper accepted at IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)
 - 2024.07 ------ One paper accepted at TMC
 - 2024.03 ------ One paper accepted at IoTJ
-- 2024.09 ------ I started as an assistant professor @ Fuzhou University.
 - 2023.11 ------ One paper accepted at Food Control
+- 2024.09 ------ I started as an assistant professor @ Fuzhou University.
 - 2023.03 ------ One paper accepted at TOSN
 - 2022.12 ------ One paper accepted at IoTJ
 - 2022.12 ------ One poster accepted at MobiCom 2022
