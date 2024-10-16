@@ -11,7 +11,7 @@ I am currently a **Assistant Professor** at College of Computer and Data Science
 
 <div style="display: flex; justify-content: space-between;">
 
-<div style="width: 30%;">
+<div style="width: 50%;">
   <h3>Interests</h3>
   <ul>
     <li><font size=2>🔗 Internet-of-Things (IoT), AIoT</font></li>
@@ -24,19 +24,12 @@ I am currently a **Assistant Professor** at College of Computer and Data Science
   </ul>
 </div>
 
-<div style="width: 30%;">
+<div style="width: 50%;">
   <h3>Education</h3>
   <ul>
     <li><font size=2>🎓PhD in Computer Science and Engineering, 2023</font> <br> <font size=2>University of New South Wales (UNSW)</font></li>
     <li><font size=2>🎓M.S. in Computer Science and Technology, 2016</font> <br> <font size=2>University of Science and Technology of China (USTC)</font></li>
     <li><font size=2>🎓B.S. in Software Engineering, 2013</font> <br> <font size=2>Southwest Jiaotong University (SWJTU)</font></li>
-  </ul>
-</div>
-
-<div style="width: 30%;">
-  <h3>Experience</h3>
-  <ul>
-    <li><font size=2>👨🏻‍💼 Assistant Professor, 2023-now</font> <br> <font size=2>Fuzhou University (FZU)</font></li>
   </ul>
 </div>
 
