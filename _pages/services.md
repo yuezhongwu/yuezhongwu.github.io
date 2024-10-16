@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Review Services**
-<font size =2>
+
 - 2023: ACM MobiSys, IEEE IoTJ
 
 - 2022: ACM Sensys, IEEE Network Magazine, Applied Soft Computing
@@ -20,5 +20,5 @@ redirect_from:
 - 2020: IEEE TIFS
 
 - 2019: ACM/IEEE IPSN, ACM Sensys, ACM BuildSys, GECCO, IEEE CEC, Applied Soft Computing
-</font>
+
 
