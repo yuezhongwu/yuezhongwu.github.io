@@ -20,20 +20,20 @@ Research Interests:
 
 News
 ======
-- 2024.07 ------ One paper accepted at IEEE Transactions on Mobile Computing (TMC)
-- 2024.03 ------ One paper accepted at IEEE Internet of Things Journal (IoTJ)
+- 2024.10 ------ One paper accepted at IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)
+- 2024.07 ------ One paper accepted at TMC
+- 2024.03 ------ One paper accepted at IoTJ
+- 2024.09 ------ I started as an assistant professor @ Fuzhou University.
 - 2023.11 ------ One paper accepted at Food Control
-- 2023.03 ------ One paper accepted at ACM Transactions on Sensor Networks (TOSN)
-- 2022.12 ------ One paper accepted at IEEE Internet of Things Journal (IoTJ)
-- 2022.12 ------One poster accepted at MobiCom 2022
+- 2023.03 ------ One paper accepted at TOSN
+- 2022.12 ------ One paper accepted at IoTJ
+- 2022.12 ------ One poster accepted at MobiCom 2022
 - 2022.05 ------ One paper accepted at IMWUT/UbiComp 2022
 - 2022.04 ------ One paper accepted at IEEE ICDCS 2022
-- 2020.12 - --- One paper accepted at EWSN 2021
+- 2020.12 ------ One paper accepted at EWSN 2021
 - 2020.01 ------ One paper accepted at  IMWUT/UbiComp 2020
 - 2020.01 ------ One paper accepted at ACM/IEEE IPSN 2020
-- 2019.122 ------ One paper accepted at IEEE INFOCOM 2020
-- 2019.04 ------ I am invited as a review of Applied Soft Computing Journal
-- 2019.04 ------ I am invited as a review of GECCO 2019
+- 2019.12 ------ One paper accepted at IEEE INFOCOM 2020
 - 2019.03 ------ One paper is accepted at Journal of Experimental & Theoretical Artificial Intelligence (JETAI)
 
 <!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
