@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV Here：[Yuezhong's  Curriculum Vitae](../files/CV_yuezhong.pdf).
-<!-- Education
+You can find my CV Here：[Yuezhong's  Curriculum Vitae](../files/CV_yuezhong.pdf)
+
+<!-- -- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
