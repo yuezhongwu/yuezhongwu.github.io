@@ -6,8 +6,8 @@
 
 main:
   - title: "Bio"
-    url: http://127.0.0.1:4000/
-    # url: https://yuezhongwu.github.io/
+    # url: http://127.0.0.1:4000/
+    url: https://yuezhongwu.github.io/
 
   - title: "Publications"
     url: /publications_wyz/
