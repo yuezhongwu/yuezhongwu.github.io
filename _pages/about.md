@@ -52,7 +52,7 @@ News
 - 2024.07 ------ One paper accepted at TMC
 - 2024.03 ------ One paper accepted at IoTJ
 - 2023.11 ------ One paper accepted at Food Control
-- 2024.09 ------ I started as an assistant professor @ Fuzhou University.
+- 2023.09 ------ I started as an assistant professor @ Fuzhou University.
 - 2023.03 ------ One paper accepted at TOSN
 - 2022.12 ------ One paper accepted at IoTJ
 - 2022.12 ------ One poster accepted at MobiCom 2022
