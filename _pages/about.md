@@ -49,7 +49,7 @@ I am currently a Assistant Professor at College of Computer and Data Science at 
 News
 ======
 - 2025.04 ------ One paper accepted at IMWUT/UbiComp 2025
-- 2025.04 ------ One paper accepted at Ad Hoc Netwrorks
+- 2025.04 ------ One paper accepted at Ad Hoc Networks
 - 2024.10 ------ One paper accepted at IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)
 - 2024.07 ------ One paper accepted at TMC
 - 2024.03 ------ One paper accepted at IoTJ
