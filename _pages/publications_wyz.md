@@ -12,6 +12,7 @@ redirect_from:
 \* indicates Equal Contribution, and <sup>&dagger;</sup> indicates Corresponding Author.
 
 ### Conferences
+<!-- 1. [**UbiComp 2022**] **Yuezhong Wu**\*<sup>&dagger;</sup>，Wei Song\*, Chun Tung Chou, Jiankun Hu, Wen Hu, "HandID: Towards Unobtrusive Gesture-independent User Authentication on Smartphones using Vibration-based Hand Biometrics" in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2025. -->
 1. [**UbiComp 2022**] **Yuezhong Wu**, Mahbub Hassan and Wen Hu,“SafeGait: Safeguarding Gait-based Key Generation against Vision-based Side Channel Attack using Conditional Generative Adversarial Network”, in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2022.
 1. [**ICDCS 2022**] Huanqi Yang, Hongbo Liu, **Yuezhong Wu**, Chengwen Luo, Wei Li, Albert Zomaya, Linqi Song
 and Weitao Xu. “Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications”,
@@ -34,6 +35,7 @@ and Evolutionary Computation Conference, July 15-19, 2017, pages 298-305.
 Cognitive Computing.
 
 ### Journals
+<!-- 1. [**Ad Hoc Networks 2025**] Ming Li, Furong Xu, Yuqin Wu, Jianshan Zhang, Weitao Xu, Yuezhong Wu,"Real-time task dispatching and scheduling in serverless edge computing", Ad Hoc Networks, 2025. -->
 1. [**TMC 2024**] Huanqi Yang, Di Duan, Hongbo Liu, Chengwen Luo, **Yuezhong Wu**, Wei Li, Albert Y Zomaya,
 Linqi Song, Weitao Xu. “Scenario-Adaptive Key Establishment Scheme for LoRa-enabled IoV Communications”, IEEE Transactions on Mobile Computing, 2024.
 1. [**IoTJ 2024**] **Yuezhong Wu**, Wei Song, Yanxiang Wang, Dong Ma, Weitao Xu, Mahbub Hassan, and Wen Hu,
