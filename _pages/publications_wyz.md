@@ -12,7 +12,7 @@ redirect_from:
 \* indicates Equal Contribution, and <sup>&dagger;</sup> indicates Corresponding Author.
 
 ### Conferences
-1. [**UbiComp 2025**] **Yuezhong Wu**\*，Wei Song\*, Chun Tung Chou, Jiankun Hu, Wen Hu, "HandID: Towards Unobtrusive Gesture-independent User Authentication on Smartphones using Vibration-based Hand Biometrics" accepted in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2025.
+1. [**UbiComp 2025**] **Yuezhong Wu**\*，Wei Song\*, Chun Tung Chou, Jiankun Hu, Wen Hu, "HandID: Towards Unobtrusive Gesture-independent User Authentication on Smartphones using Vibration-based Hand Biometrics" accepted in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2025. 
 1. [**UbiComp 2022**] **Yuezhong Wu**, Mahbub Hassan and Wen Hu,“SafeGait: Safeguarding Gait-based Key Generation against Vision-based Side Channel Attack using Conditional Generative Adversarial Network”, in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2022.
 1. [**ICDCS 2022**] Huanqi Yang, Hongbo Liu, **Yuezhong Wu**, Chengwen Luo, Wei Li, Albert Zomaya, Linqi Song
 and Weitao Xu. “Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications”, IEEE International Conference on Distributed Computing Systems, 2022.
