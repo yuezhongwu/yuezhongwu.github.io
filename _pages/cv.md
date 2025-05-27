@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV Here：[Yuezhong's  Curriculum Vitae](../files/CV_yuezhong.pdf)
+You can find my CV Here：[Yuezhong's  Curriculum Vitae](../files/CV_yuezhongwu_1.pdf)
 
 <!-- -- Education
 ======
