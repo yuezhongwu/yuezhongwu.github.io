@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-### Committee
--2025: Publication Chair and Track Chair @ AIoTSys'2025
+### Editorial Service
+- 2025: Publication Chair and Track Chair @ AIoTSys'2025
+- 2019: Companion Programme Committee @ GECCO’2019
 
 ### Review Services
 - 2025: IMWUT/UbiComp, TOSN, Ad hoc Networks, Expert Systems With Applications, IEEE Pervasive Computing
