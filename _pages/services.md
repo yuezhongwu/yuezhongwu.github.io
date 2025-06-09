@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+### Committee
+-2025: Publication Chair and Track Chair @ AIoTSys'2025
 
 ### Review Services
 - 2025: IMWUT/UbiComp, TOSN, Ad hoc Networks, Expert Systems With Applications
