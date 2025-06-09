@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="width: 100%;font-size:18x">
-I am currently a Assistant Professor at College of Computer and Data Science at Fuzhou University. I obtained my Ph.D. degree from the School of Computer Science and Engineering, the University of New South Wales (UNSW), supervised by <a href="https://github.com/wenh77/Website/wiki">Prof. Wen Hu</a> and <a href="https://cgi.cse.unsw.edu.au/~mahbub/">Prof. Mahbub Hassan</a>. I received my M.S. degree (Computer Science and Technology) from the School of Computer Science and Technology at University of Science and Technology of China (USTC) in 2016. I received my B.E. degree （Software Engineering） from School of Information Science and Technology from Southwest Jiaotong University (SWJTU) in 2013. I am a IEEE Member.
+I am currently an Assistant Professor at the College of Computer and Data Science at Fuzhou University. I obtained my Ph.D. degree from the School of Computer Science and Engineering, the University of New South Wales (UNSW), supervised by <a href="https://github.com/wenh77/Website/wiki">Prof. Wen Hu</a> and <a href="https://cgi.cse.unsw.edu.au/~mahbub/">Prof. Mahbub Hassan</a>. Mahbub Hassan. I received my M.S. degree (Computer Science and Technology) from the School of Computer Science and Technology at the University of Science and Technology of China (USTC) in 2016. I received my B.E. degree （Software Engineering） from the School of Information Science and Technology at Southwest Jiaotong University (SWJTU) in 2013. I am an IEEE Member.
 </div>
 <br/>
 
