@@ -48,7 +48,7 @@ I am currently an Assistant Professor at the College of Computer and Data Scienc
 
 News
 ======
-- 2025.04 ------ One paper accepted at Food Chemistry 2025
+- 2025.07 ------ One paper accepted at Food Chemistry 2025
 - 2025.04 ------ One paper accepted at IMWUT/UbiComp 2025
 - 2025.04 ------ One paper accepted at Ad Hoc Networks
 - 2024.10 ------ One paper accepted at IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)
