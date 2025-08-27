@@ -13,7 +13,7 @@ redirect_from:
 - 2019: Companion Programme Committee @ GECCO’2019 and IEEE CEC'2019
 
 ### Review Services
-- 2025: IMWUT/UbiComp, TOSN, Ad hoc Networks, Expert Systems With Applications, IEEE Pervasive Computing
+- 2025: IMWUT/UbiComp, TOSN, Ad hoc Networks, Expert Systems With Applications, IEEE Pervasive Computing, IEEE TMC
 - 2024: IMWUT/UbiComp, TOSN, Ad Hoc Networks
 - 2023: ACM MobiSys, IEEE IoTJ
 - 2022: ACM Sensys, IEEE Network Magazine, Applied Soft Computing
