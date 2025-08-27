@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<span style="background-color:yellow">test for color</span>
 \* indicates Equal Contribution, and <sup>&dagger;</sup> indicates Corresponding Author.
 
 ### Conferences
@@ -35,7 +35,6 @@ and Evolutionary Computation Conference, July 15-19, 2017, pages 298-305.
 Cognitive Computing.
 
 ### Journals
-1. <table><tr><td bgcolor=yellow>yellow</td></tr></table>
 1. [**IoTJ 2025**] Chunyu Tu, Zhiyong Yu, Jie Huang, Fangwan Huang,**Yuezhong Wu**, Lei Han, Leye Wang, Runhe Huang, "Adaptive Role Learning with Evolutionary Multi-agent Reinforcement Learning for UAV-Vehicle Collaboration in Sparse Mobile Crowdsensing", IEEE Internet of Things Journal, 2025.
 1. [**Ad Hoc Networks 2025**] Ming Li, Furong Xu, Yuqin Wu, Jianshan Zhang, Weitao Xu, **Yuezhong Wu**, "Real-time task dispatching and scheduling in serverless edge computing", Ad Hoc Networks, Volume 174, 2025.
 1. [**Food Chemistry 2025**] Chencheng Wei, Jiheng Zhang, Gaozheng Li, Yi Zhong, Zhaoting Ye, Handong Wang, Kezhi Li, Yuanzi Wu, **Yuezhong Wu**, Heng Luo, Qi Sun\*, Zuquan Weng\*, "Rapid and non-destructive detection of formaldehyde adulteration in shrimp based on deep learning-assisted portable Raman spectroscopy", Food Chemistry, 2025.
