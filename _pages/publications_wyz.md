@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-<span style="background-color:yellow">test for color</span>
 \* indicates Equal Contribution, and <sup>&dagger;</sup> indicates Corresponding Author.
 
 ### Conferences
