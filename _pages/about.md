@@ -48,6 +48,7 @@ I am currently an Assistant Professor at the College of Computer and Data Scienc
 
 News
 ======
+- 2025.10 ------ Invited to serve as a Distinguished Reviewer @ ACM Transactions on Internet of Things (TIOT)
 - 2025.10 ------ Invited to serve as a Session Chair @ UbiComp 2025
 - 2025.07 ------ One paper accepted at IoTJ
 - 2025.07 ------ One paper accepted at Food Chemistry
