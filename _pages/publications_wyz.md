@@ -11,7 +11,8 @@ redirect_from:
 \* indicates Equal Contribution, and <sup>&dagger;</sup> indicates Corresponding Author.
 
 ### Conferences
-1. [**IMWUT/UbiComp 2025**] **Yuezhong Wu**\*，Wei Song\*, Chun Tung Chou, Jiankun Hu, Wen Hu, "HandID: Towards Unobtrusive Gesture-independent User Authentication on Smartphones using Vibration-based Hand Biometrics" accepted in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2025.
+1. [**INFOCOM 2026**] **Yuezhong Wu**, Xin Miao, Shuai Chen, Xing Chen, Xiong Wang, and Dong Ma,"DeWater: Towards Efficient Underwater Communication via Fine-tuned Learning-enhanced Demodulation", IEEE INFOCOM 2026.
+1. [**IMWUT/UbiComp 2025**] **Yuezhong Wu**\*，Wei Song\*, Chun Tung Chou, Jiankun Hu, and Wen Hu, "HandID: Towards Unobtrusive Gesture-independent User Authentication on Smartphones using Vibration-based Hand Biometrics" accepted in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2025.
 1. [**IMWUT/UbiComp 2022**] **Yuezhong Wu**, Mahbub Hassan and Wen Hu,“SafeGait: Safeguarding Gait-based Key Generation against Vision-based Side Channel Attack using Conditional Generative Adversarial Network”, in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2022.
 1. [**ICDCS 2022**] Huanqi Yang, Hongbo Liu, **Yuezhong Wu**, Chengwen Luo, Wei Li, Albert Zomaya, Linqi Song
 and Weitao Xu. “Vehicle-Key: A Secret Key Establishment Scheme for LoRa-enabled IoV Communications”,
@@ -34,6 +35,7 @@ and Evolutionary Computation Conference, July 15-19, 2017, pages 298-305.
 Cognitive Computing.
 
 ### Journals
+1. [**Ad Hoc Networks 2025**] Chunyu Tu, Yanghui Chen, Zhiyong Yu, Fangwan Huang, **Yuezhong Wu**, Xianwei Guo, Chao Yang, Runhe Huang, "Decentralized opportunistic crowdsensing task allocation with global and local communication", Ad Hoc Networks, 2025
 1. [**IoTJ 2025**] Chunyu Tu, Zhiyong Yu, Jie Huang, Fangwan Huang,**Yuezhong Wu**, Lei Han, Leye Wang, Runhe Huang, "Adaptive Role Learning with Evolutionary Multi-agent Reinforcement Learning for UAV-Vehicle Collaboration in Sparse Mobile Crowdsensing", IEEE Internet of Things Journal, 2025.
 1. [**Ad Hoc Networks 2025**] Ming Li, Furong Xu, Yuqin Wu, Jianshan Zhang, Weitao Xu, **Yuezhong Wu**, "Real-time task dispatching and scheduling in serverless edge computing", Ad Hoc Networks, Volume 174, 2025.
 1. [**Food Chemistry 2025**] Chencheng Wei, Jiheng Zhang, Gaozheng Li, Yi Zhong, Zhaoting Ye, Handong Wang, Kezhi Li, Yuanzi Wu, **Yuezhong Wu**, Heng Luo, Qi Sun\*, Zuquan Weng\*, "Rapid and non-destructive detection of formaldehyde adulteration in shrimp based on deep learning-assisted portable Raman spectroscopy", Food Chemistry, 2025.
