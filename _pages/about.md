@@ -49,10 +49,12 @@ I am currently an Assistant Professor at the College of Computer and Data Scienc
 News
 ======
 - 2026.01 ------ Invited to serve as a Video Chair @ UbiComp 2026
+- 2026.01 ------ Invited to serve as a Distinguished Reviewer @ TOSN
 - 2025.12 ------ One paper accepted at INFOCOM 2026
 - 2025.11 ------ One paper accepted at Ad Hoc Networks
 - 2025.10 ------ Invited to serve as a Distinguished Reviewer @ ACM Transactions on Internet of Things (TIOT)
 - 2025.10 ------ Invited to serve as a Session Chair @ UbiComp 2025
+- 2025.08 ------ One paper accepted at AIoTSys 2025
 - 2025.07 ------ One paper accepted at IoTJ
 - 2025.07 ------ One paper accepted at Food Chemistry
 - 2025.04 ------ One paper accepted at IMWUT/UbiComp 2025
