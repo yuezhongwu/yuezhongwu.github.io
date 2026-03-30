@@ -11,7 +11,7 @@ redirect_from:
 ### Editorial Services
 - Distinguished Reviewer @ TOSN
 - Distinguished Reviewer @ TIOT
-- 
+
 ### conference committee
 - 2026: Video Chair @ UbiComp 2026
 - 2025: Session Chair @ UbiComp 2025, Publication Chair and Track Chair @ AIoTSys'2025
