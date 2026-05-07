@@ -36,11 +36,11 @@ and Evolutionary Computation Conference, July 15-19, 2017, pages 298-305.
 Cognitive Computing.
 
 ### Journals
-1. [**IEEE TNSM**] Hanlin Chen, Fukang Deng, Tengcong Jiang, Weitao Xu, **Yuezhong Wu**<sup>&dagger;</sup>, Xing Chen<sup>&dagger;</sup>, Jie Li, "Enhancing Throughput in Sharded Blockchain via Joint Convex Optimization of System Parameters and Resource Allocation", in IEEE Transactions on Network and Service Management, 2026.
+1. [**IEEE TNSM 2026**] Hanlin Chen, Fukang Deng, Tengcong Jiang, Weitao Xu, **Yuezhong Wu**<sup>&dagger;</sup>, Xing Chen<sup>&dagger;</sup>, Jie Li, "Enhancing Throughput in Sharded Blockchain via Joint Convex Optimization of System Parameters and Resource Allocation", in IEEE Transactions on Network and Service Management, 2026.
 1. [**Ad Hoc Networks 2025**] Chunyu Tu, Yanghui Chen, Zhiyong Yu, Fangwan Huang, **Yuezhong Wu**, Xianwei Guo, Chao Yang, Runhe Huang, "Decentralized opportunistic crowdsensing task allocation with global and local communication", Ad Hoc Networks, 2025
 1. [**IoTJ 2025**] Chunyu Tu, Zhiyong Yu, Jie Huang, Fangwan Huang,**Yuezhong Wu**, Lei Han, Leye Wang, Runhe Huang, "Adaptive Role Learning with Evolutionary Multi-agent Reinforcement Learning for UAV-Vehicle Collaboration in Sparse Mobile Crowdsensing", IEEE Internet of Things Journal, 2025.
 1. [**Ad Hoc Networks 2025**] Ming Li, Furong Xu, Yuqin Wu, Jianshan Zhang, Weitao Xu, **Yuezhong Wu**, "Real-time task dispatching and scheduling in serverless edge computing", Ad Hoc Networks, Volume 174, 2025.
-1. [**Food Chemistry 2025**] Chencheng Wei, Jiheng Zhang, Gaozheng Li, Yi Zhong, Zhaoting Ye, Handong Wang, Kezhi Li, Yuanzi Wu, **Yuezhong Wu**, Heng Luo, Qi Sun\*, Zuquan Weng\*, "Rapid and non-destructive detection of formaldehyde adulteration in shrimp based on deep learning-assisted portable Raman spectroscopy", Food Chemistry, 2025.
+1. [**Food Chemistry 2025**] Chencheng Wei, Jiheng Zhang, Gaozheng Li, Yi Zhong, Zhaoting Ye, Handong Wang, Kezhi Li, Yuanzi Wu, **Yuezhong Wu**, Heng Luo, Qi Sun, Zuquan Weng, "Rapid and non-destructive detection of formaldehyde adulteration in shrimp based on deep learning-assisted portable Raman spectroscopy", Food Chemistry, 2025.
 1. [**IEEE OJ-ITS 2024**] Minyu Shen, Chaojing Li, **Yuezhong Wu**, Xiaowen Bi, Feng Xiao, "An Extensible Python Open-Source Simulation Platform for Developing and Benchmarking Bus Holding Strategies", IEEE Open Journal of Intelligent Transportation Systems, 2024.
 1. [**TMC 2024**] Huanqi Yang, Di Duan, Hongbo Liu, Chengwen Luo, **Yuezhong Wu**, Wei Li, Albert Y Zomaya,
 Linqi Song, Weitao Xu. “Scenario-Adaptive Key Establishment Scheme for LoRa-enabled IoV Communications”, IEEE Transactions on Mobile Computing, 2024.
