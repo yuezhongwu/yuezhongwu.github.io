@@ -12,7 +12,7 @@ redirect_from:
 - Distinguished Reviewer @ TOSN
 - Distinguished Reviewer @ TIOT
 
-### conference committee
+### Conference Committee
 - 2026: Video Chair @ UbiComp 2026
 - 2025: Session Chair @ UbiComp 2025, Publication Chair and Track Chair @ AIoTSys'2025
 - 2019: Companion Programme Committee @ GECCO’2019 and IEEE CEC'2019
