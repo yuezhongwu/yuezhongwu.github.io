@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Conferences
-1. **[UbiComp] (May.2026)** DeWater: Towards Efficient Underwater Communication via Fine-tuned Learning-enhanced Demodulation.
+1. **[INFOCOM] (May.2026)** DeWater: Towards Efficient Underwater Communication via Fine-tuned Learning-enhanced Demodulation.
 1. **[UbiComp] (Oct.2025)** HandID: Towards Unobtrusive Gesture-independent User Authentication on Smartphones using Vibration-based Hand Biometrics.
 1. **[UbiComp] (Sep.2022)** SafeGait: Safeguarding Gait-based Key Generation against Vision-based Side Channel Attack using Conditional Generative Adversarial Network.
 1. **[UbiComp] (Sep.2020)** Auto-Key: Using Autoencoder to Speed Up Gait-based Key Generation in Body Area Networks.
