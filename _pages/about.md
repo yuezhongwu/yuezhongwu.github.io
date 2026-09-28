@@ -48,7 +48,6 @@ I am currently an Assistant Professor at the College of Computer and Data Scienc
 
 News
 ======
-- 2026.07 ------ One paper accepted at IMWUT/UbiComp 2026
 - 2026.08 ------ One paper accepted at TMC
 - 2026.07 ------ One paper accepted at IMWUT/UbiComp 2026
 - 2026.04 ------ One paper accepted at TNSM
