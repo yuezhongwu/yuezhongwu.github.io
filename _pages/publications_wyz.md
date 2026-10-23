@@ -11,7 +11,8 @@ redirect_from:
 \* indicates Equal Contribution, and <sup>&dagger;</sup> indicates Corresponding Author.
 
 ### Conferences
-1. [**IMWUT/UbiComp 2026**] Changshuo Hu, Hung Manh Pham, Yiming Zhang, Guanru Yan, Xiao Ma, **Yuezhong Wu**, Thivya Kandappu, Archan Misra, Dong Ma, "PPG-Sport: A Dataset for Reliable Heart Rate Monitoring from Wrist PPG Under Dynamic Sports Conditions", accepted in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2026.
+1. [**IMWUT/UbiComp 2026**] Hung Manh Pham, Xiao Ma, Changshuo Hu, Xiaoyu Xu, Thivya Kandappu, **Yuezhong Wu**, Tarek Abdelzaher, Archan Misra, Dong Ma, "PPG-IDR: Leveraging User Identity for Robust Cross-user PPG Sensing via Disentangled Representations", in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2026.
+1. [**IMWUT/UbiComp 2026**] Changshuo Hu, Hung Manh Pham, Yiming Zhang, Guanru Yan, Xiao Ma, **Yuezhong Wu**, Thivya Kandappu, Archan Misra, Dong Ma, "PPG-Sport: A Dataset for Reliable Heart Rate Monitoring from Wrist PPG Under Dynamic Sports Conditions", in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2026.
 1. [**INFOCOM 2026**] **Yuezhong Wu**, Xin Miao, Shuai Chen, Xing Chen, Xiong Wang, and Dong Ma,"DeWater: Towards Efficient Underwater Communication via Fine-tuned Learning-enhanced Demodulation", IEEE INFOCOM 2026.
 1. [**IMWUT/UbiComp 2025**] **Yuezhong Wu**\*，Wei Song\*, Chun Tung Chou, Jiankun Hu, and Wen Hu, "HandID: Towards Unobtrusive Gesture-independent User Authentication on Smartphones using Vibration-based Hand Biometrics" accepted in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2025.
 1. [**IMWUT/UbiComp 2022**] **Yuezhong Wu**, Mahbub Hassan and Wen Hu,“SafeGait: Safeguarding Gait-based Key Generation against Vision-based Side Channel Attack using Conditional Generative Adversarial Network”, in Proceedings of ACM Interactive, Mobile, Wireless and Ubiquitous Technology, 2022.
@@ -36,6 +37,7 @@ and Evolutionary Computation Conference, July 15-19, 2017, pages 298-305.
 Cognitive Computing.
 
 ### Journals
+1. [**TMC**] Chunyu Tu, Zhiyong Yu, Leye Wang, Xiangping Zheng, Fangwan Huang, **Yuezhong Wu**, Runhe Huang, Asynchronous Multi-Agent Reinforcement Learning for Collaborative UAV Sensing in Sparse Mobile Crowdsensing, in IEEE Transactions on Mobile Computing, 2026.
 1. [**IEEE TNSM 2026**] Hanlin Chen, Fukang Deng, Tengcong Jiang, Weitao Xu, **Yuezhong Wu**<sup>&dagger;</sup>, Xing Chen<sup>&dagger;</sup>, Jie Li, "Enhancing Throughput in Sharded Blockchain via Joint Convex Optimization of System Parameters and Resource Allocation", in IEEE Transactions on Network and Service Management, 2026.
 1. [**Ad Hoc Networks 2025**] Chunyu Tu, Yanghui Chen, Zhiyong Yu, Fangwan Huang, **Yuezhong Wu**, Xianwei Guo, Chao Yang, Runhe Huang, "Decentralized opportunistic crowdsensing task allocation with global and local communication", Ad Hoc Networks, 2025
 1. [**IoTJ 2025**] Chunyu Tu, Zhiyong Yu, Jie Huang, Fangwan Huang,**Yuezhong Wu**, Lei Han, Leye Wang, Runhe Huang, "Adaptive Role Learning with Evolutionary Multi-agent Reinforcement Learning for UAV-Vehicle Collaboration in Sparse Mobile Crowdsensing", IEEE Internet of Things Journal, 2025.
